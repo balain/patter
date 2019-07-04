@@ -1,0 +1,5 @@
+# Add in the Scribus template folder when it's ready
+Scribus template/
+
+# An offline sandbox for trial runs
+Scribus playground/
