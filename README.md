@@ -2,8 +2,8 @@
 
 This guide was created for the staff of the PCA Chesapeake Regon newsletter - the Patter.
 
-- [Editor Responsibilities Chart (RACI)](Editor%20RACI.md)
-- [Editorial Roles](Editorial%20Roles.md)
+- [Editor Responsibilities Chart (RACI)](Editor_RACI.md)
+- [Editorial Roles](Editorial_Roles.md)
 - [Trello Guide](Trello.md)
 - [Patter_Style_Guide.md](Patter_Style_Guide.md) for the full style guide.
 

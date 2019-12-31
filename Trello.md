@@ -41,7 +41,13 @@
 - **Actions**: When proof comments are returned to the editors, update the content, attach the final copy to the card and move it to the "Done" column. [Note: limit of one proof update per article.]
   - If proof comments are not returned to the editors within 3 business days, move the card to the "Done" column and notify the author that updates will not be made.
 
-### Done
+### Content Ready for Print
 
 - **Contents**: List of final issue entries - ready for Copy Editor 
-- **Actions**: All cards remain in this column until the issue is published. Once the issue is published (i.e. the PDF is available online), archive the list.
+- **Actions**: Cards are added to this list by the Content Manager when they have been fully reviewed and finalized by the Content Manager. The Release Manager will move the cards from this list to the **Done** list when the content has been incorporated into the Publisher file.
+
+### Done
+
+- **Contents**: List of final issue entries - Article has been entered in Publisher file and finalized. 
+- **Actions**: The Release Manager moves cards into this list when the articles have been incorporated into the Publisher file.
+  - All cards remain in this column until the issue is published. Once the issue is published (i.e. the PDF is available online), the Process Manager will archive the list.
