@@ -1,4 +1,6 @@
-# Style Guide for PCACHS Newsletter - the Patter
+# PCACHS Newsletter - the Patter
+
+## Editorial Guide
 
 This guide was created for the staff of the PCA Chesapeake Regon newsletter - the Patter.
 
