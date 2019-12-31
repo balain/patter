@@ -5,6 +5,7 @@ This guide was created for the staff of the PCA Chesapeake Regon newsletter - th
 - [Editor Responsibilities Chart (RACI)](Editor_RACI.md)
 - [Editorial Roles](Editorial_Roles.md)
 - [Trello Guide](Trello.md)
+- [Patter Workflow](Patter_Workflow.pdf)
 - [Patter_Style_Guide.md](Patter_Style_Guide.md) for the full style guide.
 
 # Useful links

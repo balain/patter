@@ -4,7 +4,6 @@ Scribus template/
 # An offline sandbox for trial runs
 Scribus playground/
 
-*.pdf
 cache/
 dist/
 patter/
