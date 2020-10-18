@@ -9,6 +9,7 @@ This guide was created for the staff of the PCA Chesapeake Regon newsletter - th
 - [Trello Guide](Trello.md)
 - [Patter Workflow](Patter_Workflow.pdf)
 - [Patter_Style_Guide.md](Patter_Style_Guide.md) for the full style guide.
+- [Editor Transition Plan](Editor_Transition_Plan.md)
 
 # Useful links
 
