@@ -7,7 +7,7 @@ This plan covers the activities required to transition a current/active editor o
 * Incoming/remaining editor(s)
 
 # Resources
-* Github: https://github.com/balain/Patter2020
+* Github: [https://balain.github.io/patter/](https://balain.github.io/patter/)
   * Editor Roles
   * RACI Chart
   * Workflow: graphic and textual descriptions
